@@ -3,7 +3,7 @@
 The [suckless terminal (st)](https://st.suckless.org/) with some additional
 features that make it literally the best terminal emulator ever:
 
-## Unique features (using dmenu)
+## Unique features (using dmenu) say anashe
 
 + **follow urls** by pressing `alt-l`
 + **copy urls** in the same way with `alt-y`
